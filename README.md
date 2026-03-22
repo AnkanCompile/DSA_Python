@@ -10,7 +10,6 @@
 [Report Bug](https://github.com/AnkanCompile/DSA_Python/issues)
 
 </div>
----
 
 ### Run the file in the terminal
 
