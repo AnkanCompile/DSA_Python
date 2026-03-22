@@ -10,12 +10,6 @@
 [Report Bug](https://github.com/AnkanCompile/DSA_Python/issues)
 
 </div>
-
-## 📑 Table of Contents
-* [String](#-String)
-* [Array](#-Array)
-* [Linked Lists](#-Linked_Lists)
-
 ---
 
 ### Run the file in the terminal
